@@ -9,6 +9,8 @@ local boatModel;
 local boatSpawn = {}
 local NumberboatSpawn = 0
 
+--Config Boats Here
+
 local boates = {
 	    [1] = {
 		['Text'] = "[$15] Row Boat",
@@ -101,7 +103,7 @@ Citizen.CreateThread( function()
 		if WarMenu.IsMenuOpened('id_boat') then
 			for i = 1, #boates do
 				if WarMenu.Button(boates[i]['Text'], boates[i]['SubText']) then
-					TriggerServerEvent('elrp:buyboat', boates[i]['Param'])
+					TriggerServerEvent('elrp:buyboat', boates[i]['Param']) 
 			end
 			end
 			WarMenu.Display()

@@ -13,7 +13,7 @@ Installation :
 
 1 - import database boats.sql
 
-2 - ensure kcrp_boats
+2 - add "ensure kcrp_boats" to server.cfg
 
 3 - add kcrp_boats folder to a resources folder
 

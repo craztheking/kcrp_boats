@@ -1,7 +1,10 @@
 Boat Dealer
-
 https://github.com/CrazTheKing
 
+Recreated from:
+HORSE SHOP FOR REDEM 0.1v by #mrlupo# / #Proky# / #Plouffe#  
+https://github.com/Proky0
+https://github.com/mrlupo
 
 
 ==============================================================================
@@ -27,7 +30,3 @@ Usage :
 4. Dropped Boat will show "horse" blip for locating purposes.
 
 =============================================================================
-Recreated from:
-HORSE SHOP FOR REDEM 0.1v by #mrlupo# / #Proky# / #Plouffe#  
-https://github.com/Proky0
-https://github.com/mrlupo

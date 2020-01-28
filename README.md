@@ -20,7 +20,8 @@ Installation :
 
 Usage : 
 
-1. Go to an Boat Shop on the map, press (E) to open menu, select any boat you would like to buy.
+1. Go to an Boat Shop in saint denis (https://gyazo.com/dbdbcfca410982f2f3c389996de031bf) Press (E) to open menu, select any boat you would like to buy.
+
 (no curret blip for shop, I use redm_blips to create one. (coords found in config file, you may add more)
 
 2. Use /dropboat to spawn a boat

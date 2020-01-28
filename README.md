@@ -22,7 +22,9 @@ Usage :
 
 2. Use /dropboat to spawn a boat
 
-3. 10 second timer between boat drops
+3. 10 second timer between boat drops (displayed)
+
+4. Dropped Boat will show "horse" blip for locating purposes.
 
 =============================================================================
 Recreated from:

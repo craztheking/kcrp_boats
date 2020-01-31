@@ -38,9 +38,7 @@ AddEventHandler( 'elrp:buyboat', function ( args )
         user.removeMoney(_price)
     end)
 
-    TriggerClientEvent('elrp:spawnBoat', _src, _model)
-
-
+		
     if _resul ~= true then
         local Parameters = { ['identifier'] = u_identifier, ['charid'] = u_charid, ['boat'] = _model }
         MySQL.Async.execute("INSERT INTO boates ( `identifier`, `charid`, `boat` ) VALUES ( @identifier, @charid, @boat )", Parameters)
